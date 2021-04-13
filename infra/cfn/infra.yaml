@@ -1,5 +1,5 @@
 AWSTemplateFormatVersion: "2010-09-09"
-Description: "personal site - bucket, bucket policy, cloudfront, OAI (OriginAccessIdentity)"
+Description: "zach's personal site - bucket, bucket policy, cloudfront, OAI (OriginAccessIdentity)"
 Resources:
   Content:
     Type: AWS::S3::Bucket
