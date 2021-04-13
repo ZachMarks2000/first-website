@@ -20,7 +20,7 @@ jobs:
     name: Upload to Amazon S3
     runs-on: ubuntu-latest
     environment:
-    - name: Test
+      name: Test
 
     steps:
     - name: Checkout
