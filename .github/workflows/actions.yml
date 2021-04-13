@@ -1,4 +1,4 @@
-name: GitHub Actions Demo
+name: Publish content
 on: [push]
 jobs:
   Explore-GitHub-Actions:
